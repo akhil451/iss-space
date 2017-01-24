@@ -1,0 +1,40 @@
+.number{
+     color: grey;
+margin:1.75em; text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:bold;
+    font-size:1.75em;
+
+}
+
+.names{
+  color: black;
+text-align:center;
+
+    font-weight:bold;
+    font-size:1.75em;
+margin-bottom: 2%;
+
+}
+
+
+/*footer code */
+footer{
+  margin-bottom:2px;
+
+}
+
+#contact{
+margin-top: 5%;
+   bottom:4%;
+}
+#code{
+    font-size:25px;
+font-weight: bolder;
+}
+.footer>h1{
+  font-size:19px;
+}
+/*footer code */
